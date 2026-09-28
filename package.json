@@ -1,0 +1,10 @@
+{
+  "name": "ai-gateway-7-of-10-context-evolution",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "pg": "^8.11.5"
+  }
+}
